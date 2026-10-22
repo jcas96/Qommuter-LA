@@ -1,4 +1,4 @@
 # Qommuter-LA
 Quantum Equitable Bus-investment allocation
 
-<B>1st Place Winning virtual IBM Quantum project in Qompute 2026, Qiskit Fall Fest 2026 hosted by QEE</B>
+<B>Conclusion to contest: 1st Place Winning virtual IBM Quantum project in Qompute 2026, Qiskit Fall Fest 2026 hosted by QEE</B>
